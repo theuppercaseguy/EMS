@@ -1,0 +1,6 @@
+NAME	SYMBOL	SYM_ID	USER	PASS	T_CAND	T_V	T_C_WON	WON
+khan	topak	21	khan	nopass	0	0	0	false
+pti	bat	1	pti	123	4	0	0	false
+pmln	lion	2	pml	124	1	1	1	true
+Marr	irr	10	ms	125	0	0	0	false
+maha	eeka	420	noor	malik	0	0	0	false

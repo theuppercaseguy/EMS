@@ -1,0 +1,6 @@
+NAME	REGISTERED	CONSTITUENCY	CNIC		PASSWORD	VOTE_CASTED
+mahnoor	true		na1		123		123		false
+mahnoor	true		na2		124		124		false
+yousuf	true		na3		125		125		false
+yousuf	true		na4		126		126		false
+moneeza	true		na5		127		127		false

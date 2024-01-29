@@ -1,0 +1,6 @@
+NAME		DEPENDENT	PARTY_NAME	TOTAL_VOTES	CONSTITUENCY	SYMBOL		SYMBOL_ID
+mahnoor		true		pti		0		na1		bat		1
+mahnoor		true		pti		0		na2		bat		1
+yousuf		true		pti		1		na3		bat		1
+yousuf		true		pti		0		na4		bat		1
+moneeza		true		pmln		1		na5		lion		2
